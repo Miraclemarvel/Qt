@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>C:/Users/Miracle/PycharmProjects/pythonProject/pa_chong/test01/1_1.png</file>
+        <file>C:/Users/Miracle/PycharmProjects/pythonProject/pa_chong/test01/1_3.png</file>
+        <file>C:/Users/Miracle/PycharmProjects/pythonProject/pa_chong/test01/1_4.jpg</file>
+        <file>C:/Users/Miracle/PycharmProjects/pythonProject/pa_chong/test01/1_6.png</file>
+        <file>C:/Users/Miracle/PycharmProjects/pythonProject/pa_chong/test01/1_7.png</file>
+    </qresource>
+</RCC>
